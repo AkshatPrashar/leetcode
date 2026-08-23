@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0283-move-zeroes](https://github.com/AkshatPrashar/leetcode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/AkshatPrashar/leetcode/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
