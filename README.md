@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/AkshatPrashar/leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
