@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AkshatPrashar/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AkshatPrashar/leetcode/tree/master/0066-plus-one) |
 ## Matrix
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkshatPrashar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AkshatPrashar/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AkshatPrashar/leetcode/tree/master/0024-swap-nodes-in-pairs) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AkshatPrashar/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AkshatPrashar/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/0234-palindrome-linked-list) |
