@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AkshatPrashar/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AkshatPrashar/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AkshatPrashar/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/AkshatPrashar/leetcode/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/1922-count-good-numbers) |
 | [3870-count-commas-in-range](https://github.com/AkshatPrashar/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AkshatPrashar/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AkshatPrashar/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AkshatPrashar/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/AkshatPrashar/leetcode/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
