@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AkshatPrashar/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AkshatPrashar/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatPrashar/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/AkshatPrashar/leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/AkshatPrashar/leetcode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/AkshatPrashar/leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/AkshatPrashar/leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/AkshatPrashar/leetcode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AkshatPrashar/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -214,5 +216,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/AkshatPrashar/leetcode/tree/master/0078-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AkshatPrashar/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
