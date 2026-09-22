@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AkshatPrashar/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AkshatPrashar/leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AkshatPrashar/leetcode/tree/master/0231-power-of-two) |
+| [0282-expression-add-operators](https://github.com/AkshatPrashar/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/AkshatPrashar/leetcode/tree/master/0326-power-of-three) |
 | [1922-count-good-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/1922-count-good-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AkshatPrashar/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AkshatPrashar/leetcode/tree/master/0205-isomorphic-strings) |
+| [0282-expression-add-operators](https://github.com/AkshatPrashar/leetcode/tree/master/0282-expression-add-operators) |
 | [0541-reverse-string-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AkshatPrashar/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/AkshatPrashar/leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/AkshatPrashar/leetcode/tree/master/0282-expression-add-operators) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AkshatPrashar/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Simulation
 |  |
