@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/AkshatPrashar/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshatPrashar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/AkshatPrashar/leetcode/tree/master/2706-buy-two-chocolates) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatPrashar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AkshatPrashar/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AkshatPrashar/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AkshatPrashar/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AkshatPrashar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatPrashar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
