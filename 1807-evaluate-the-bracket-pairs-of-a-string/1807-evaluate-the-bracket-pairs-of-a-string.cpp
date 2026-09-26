@@ -17,18 +17,18 @@ public:
         int i=0;
         string ans="";
         vector<vector<string>> v;
-        int start=-1,finish=-1;
+        int finish=-1;
 
         while(i<len){
 
             if(str[i]=='('){
 
-                start=i++;
+                i++;
                 string s="";
                 while(i<len && str[i]!=')') s+=str[i++];
                 finish=i;
-                if(mp.find(s)!=mp.end()) v.push_back({to_string(start),to_string(finish),mp[s]});
-                else  v.push_back({to_string(start),to_string(finish),"?"});
+                if(mp.find(s)!=mp.end()) v.push_back({to_string(finish),mp[s]});
+                else  v.push_back({to_string(finish),"?"});
                 i++;
 
 
@@ -47,10 +47,10 @@ public:
                 j++;
 
             }
-            int l=v[i][2].length();
+            int l=v[i][1].length();
             int f=0;
-            while(f<l) ans+=v[i][2][f++];
-            j = stoi(v[i][1]) + 1;
+            while(f<l) ans+=v[i][1][f++];
+            j = stoi(v[i][0]) + 1;
 
         }
 
