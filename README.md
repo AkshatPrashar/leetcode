@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
+| [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AkshatPrashar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AkshatPrashar/leetcode/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AkshatPrashar/leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AkshatPrashar/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Manacher
 |  |
 | ------- |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
