@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/AkshatPrashar/leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/AkshatPrashar/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AkshatPrashar/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
