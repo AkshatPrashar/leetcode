@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/AkshatPrashar/leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AkshatPrashar/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Manacher
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AkshatPrashar/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AkshatPrashar/leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/AkshatPrashar/leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
