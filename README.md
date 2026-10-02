@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AkshatPrashar/leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/AkshatPrashar/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/AkshatPrashar/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AkshatPrashar/leetcode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/1922-count-good-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatPrashar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AkshatPrashar/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AkshatPrashar/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AkshatPrashar/leetcode/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AkshatPrashar/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AkshatPrashar/leetcode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/AkshatPrashar/leetcode/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/AkshatPrashar/leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
