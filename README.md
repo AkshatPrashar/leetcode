@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/AkshatPrashar/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatPrashar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/AkshatPrashar/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AkshatPrashar/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
