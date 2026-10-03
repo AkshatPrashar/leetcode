@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AkshatPrashar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/AkshatPrashar/leetcode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AkshatPrashar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/AkshatPrashar/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/AkshatPrashar/leetcode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/AkshatPrashar/leetcode/tree/master/0282-expression-add-operators) |
 | [0389-find-the-difference](https://github.com/AkshatPrashar/leetcode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0541-reverse-string-ii) |
+| [0648-replace-words](https://github.com/AkshatPrashar/leetcode/tree/master/0648-replace-words) |
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AkshatPrashar/leetcode/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/AkshatPrashar/leetcode/tree/master/0648-replace-words) |
 ## Divide and Conquer
 |  |
 | ------- |
