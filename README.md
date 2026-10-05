@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/AkshatPrashar/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AkshatPrashar/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/AkshatPrashar/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AkshatPrashar/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatPrashar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AkshatPrashar/leetcode/tree/master/0078-subsets) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AkshatPrashar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/AkshatPrashar/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AkshatPrashar/leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AkshatPrashar/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0338-counting-bits) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AkshatPrashar/leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
