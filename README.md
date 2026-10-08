@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/AkshatPrashar/leetcode/tree/master/0648-replace-words) |
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
+| [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AkshatPrashar/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatPrashar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkshatPrashar/leetcode/tree/master/0079-word-search) |
+| [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/AkshatPrashar/leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AkshatPrashar/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AkshatPrashar/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AkshatPrashar/leetcode/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AkshatPrashar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [3498-reverse-degree-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Interactive
