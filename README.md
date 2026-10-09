@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AkshatPrashar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkshatPrashar/leetcode/tree/master/0342-power-of-four) |
 | [1323-maximum-69-number](https://github.com/AkshatPrashar/leetcode/tree/master/1323-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/1922-count-good-numbers) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatPrashar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1486-xor-operation-in-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AkshatPrashar/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AkshatPrashar/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
