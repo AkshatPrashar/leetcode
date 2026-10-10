@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AkshatPrashar/leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/AkshatPrashar/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AkshatPrashar/leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/AkshatPrashar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AkshatPrashar/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AkshatPrashar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/AkshatPrashar/leetcode/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/AkshatPrashar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AkshatPrashar/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/AkshatPrashar/leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/AkshatPrashar/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/AkshatPrashar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AkshatPrashar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
