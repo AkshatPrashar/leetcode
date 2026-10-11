@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/AkshatPrashar/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshatPrashar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/AkshatPrashar/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AkshatPrashar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatPrashar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatPrashar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AkshatPrashar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Quicksort
 |  |
 | ------- |
