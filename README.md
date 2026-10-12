@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshatPrashar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/AkshatPrashar/leetcode/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AkshatPrashar/leetcode/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/AkshatPrashar/leetcode/tree/master/0648-replace-words) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AkshatPrashar/leetcode/tree/master/0205-isomorphic-strings) |
 | [0282-expression-add-operators](https://github.com/AkshatPrashar/leetcode/tree/master/0282-expression-add-operators) |
+| [0387-first-unique-character-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/AkshatPrashar/leetcode/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0541-reverse-string-ii) |
 | [0648-replace-words](https://github.com/AkshatPrashar/leetcode/tree/master/0648-replace-words) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Enumeration
 |  |
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AkshatPrashar/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
