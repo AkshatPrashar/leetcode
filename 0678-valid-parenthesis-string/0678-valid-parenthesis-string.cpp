@@ -26,7 +26,7 @@ public:
 
         }
 
-        if(rangeMin<=0 && rangeMax>=0) return true;
+        if(rangeMin==0) return true;
         return false;
 
     }
