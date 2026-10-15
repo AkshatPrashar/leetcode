@@ -10,14 +10,9 @@ public:
             if(s[i]=='(') rangeMin++,rangeMax++;
             else if(s[i]==')'){
 
-                if((rangeMin-1)==-1 && rangeMax>0){
-
-                    rangeMax--;
-                    continue;
-
-                }
                 rangeMin--,rangeMax--;
                 if(rangeMax==-1) return false;
+                if(rangeMin<0) rangeMin=0;
 
             }else{
 
@@ -31,7 +26,7 @@ public:
 
         }
 
-        if(rangeMin<=0) return true;
+        if(rangeMin<=0 && rangeMax>=0) return true;
         return false;
 
     }
