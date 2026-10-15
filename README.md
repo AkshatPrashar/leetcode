@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AkshatPrashar/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/AkshatPrashar/leetcode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/AkshatPrashar/leetcode/tree/master/0135-candy) |
 | [0216-combination-sum-iii](https://github.com/AkshatPrashar/leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/AkshatPrashar/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/AkshatPrashar/leetcode/tree/master/0283-move-zeroes) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AkshatPrashar/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/AkshatPrashar/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AkshatPrashar/leetcode/tree/master/0678-valid-parenthesis-string) |
