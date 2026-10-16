@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1002-find-common-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AkshatPrashar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/AkshatPrashar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
 | [0869-reordered-power-of-2](https://github.com/AkshatPrashar/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1002-find-common-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkshatPrashar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/AkshatPrashar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkshatPrashar/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1002-find-common-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
