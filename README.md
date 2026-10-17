@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/0697-degree-of-an-array) |
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1002-find-common-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/AkshatPrashar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/AkshatPrashar/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/AkshatPrashar/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AkshatPrashar/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2706-buy-two-chocolates](https://github.com/AkshatPrashar/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/AkshatPrashar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AkshatPrashar/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AkshatPrashar/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/AkshatPrashar/leetcode/tree/master/1323-maximum-69-number) |
@@ -430,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkshatPrashar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
