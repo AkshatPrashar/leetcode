@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkshatPrashar/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2057-smallest-index-with-equal-value](https://github.com/AkshatPrashar/leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshatPrashar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshatPrashar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AkshatPrashar/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2706-buy-two-chocolates](https://github.com/AkshatPrashar/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AkshatPrashar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshatPrashar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/AkshatPrashar/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1710-maximum-units-on-a-truck](https://github.com/AkshatPrashar/leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/AkshatPrashar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AkshatPrashar/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2706-buy-two-chocolates](https://github.com/AkshatPrashar/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AkshatPrashar/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
