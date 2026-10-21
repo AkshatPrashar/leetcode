@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AkshatPrashar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/AkshatPrashar/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/AkshatPrashar/leetcode/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/AkshatPrashar/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AkshatPrashar/leetcode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/AkshatPrashar/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/AkshatPrashar/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/AkshatPrashar/leetcode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/AkshatPrashar/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/AkshatPrashar/leetcode/tree/master/0869-reordered-power-of-2) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AkshatPrashar/leetcode/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/AkshatPrashar/leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/AkshatPrashar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
@@ -451,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/AkshatPrashar/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
