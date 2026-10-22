@@ -2,25 +2,23 @@ class Solution {
 public:
 
 
-    vector<int> findEvenNumbers(vector<int>& digits) {
+    vector<int> findEvenNumbers(vector<int>& arr) {
         
        vector<int> ans;
-        int n = digits.size();
+        int n = arr.size();
         vector<bool> seen(1000, false);
 
         for (int i = 0; i < n; i++) {
-            if (digits[i] == 0) continue;
+            if (arr[i] == 0) continue;
 
             for (int j = 0; j < n; j++) {
                 if (j == i) continue;
 
                 for (int k = 0; k < n; k++) {
                     if (k == i || k == j) continue;
-                    if (digits[k] % 2 != 0) continue;
+                    if (arr[k] % 2 != 0) continue;
 
-                    int num = digits[i] * 100
-                            + digits[j] * 10
-                            + digits[k];
+                    int num = arr[i]*100+arr[j]*10+arr[k];
 
                     if (!seen[num]) {
                         ans.push_back(num);
