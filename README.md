@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshatPrashar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AkshatPrashar/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AkshatPrashar/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2706-buy-two-chocolates](https://github.com/AkshatPrashar/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AkshatPrashar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkshatPrashar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AkshatPrashar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkshatPrashar/leetcode/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AkshatPrashar/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Linked List
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AkshatPrashar/leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AkshatPrashar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AkshatPrashar/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3498-reverse-degree-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/AkshatPrashar/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/AkshatPrashar/leetcode/tree/master/3959-check-good-integer) |
