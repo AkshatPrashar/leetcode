@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/AkshatPrashar/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AkshatPrashar/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/AkshatPrashar/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/AkshatPrashar/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AkshatPrashar/leetcode/tree/master/0066-plus-one) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AkshatPrashar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/AkshatPrashar/leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/AkshatPrashar/leetcode/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/AkshatPrashar/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/AkshatPrashar/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkshatPrashar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/AkshatPrashar/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AkshatPrashar/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AkshatPrashar/leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/AkshatPrashar/leetcode/tree/master/0079-word-search) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AkshatPrashar/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/AkshatPrashar/leetcode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/AkshatPrashar/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
