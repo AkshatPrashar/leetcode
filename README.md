@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AkshatPrashar/leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AkshatPrashar/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshatPrashar/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/AkshatPrashar/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/AkshatPrashar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkshatPrashar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/AkshatPrashar/leetcode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/AkshatPrashar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AkshatPrashar/leetcode/tree/master/0342-power-of-four) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/AkshatPrashar/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0869-reordered-power-of-2](https://github.com/AkshatPrashar/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1323-maximum-69-number](https://github.com/AkshatPrashar/leetcode/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/1486-xor-operation-in-an-array) |
