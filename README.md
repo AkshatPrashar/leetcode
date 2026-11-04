@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AkshatPrashar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshatPrashar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/AkshatPrashar/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkshatPrashar/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshatPrashar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/AkshatPrashar/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AkshatPrashar/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
@@ -499,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/AkshatPrashar/leetcode/tree/master/0561-array-partition) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshatPrashar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
