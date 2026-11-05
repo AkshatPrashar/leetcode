@@ -8,13 +8,11 @@ public:
 
         while(right<n){
 
-            if(mp[s[right]]==-1) mp[s[right]]=right;
-            else{
 
-                if(mp[s[right]]>=left) left=mp[s[right]]+1;
-                mp[s[right]]=right;
+            if(mp[s[right]]>=left) left=mp[s[right]]+1;
 
-            }
+
+            mp[s[right]]=right;
 
             maxi=max(maxi,right-left+1);
             right++;
