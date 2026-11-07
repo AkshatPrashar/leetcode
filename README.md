@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/AkshatPrashar/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/AkshatPrashar/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1861-rotating-the-box](https://github.com/AkshatPrashar/leetcode/tree/master/1861-rotating-the-box) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkshatPrashar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2057-smallest-index-with-equal-value](https://github.com/AkshatPrashar/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkshatPrashar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatPrashar/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1861-rotating-the-box](https://github.com/AkshatPrashar/leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AkshatPrashar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkshatPrashar/leetcode/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
+| [1861-rotating-the-box](https://github.com/AkshatPrashar/leetcode/tree/master/1861-rotating-the-box) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AkshatPrashar/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AkshatPrashar/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Linked List
