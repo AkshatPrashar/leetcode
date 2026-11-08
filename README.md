@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatPrashar/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatPrashar/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AkshatPrashar/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshatPrashar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AkshatPrashar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AkshatPrashar/leetcode/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatPrashar/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1861-rotating-the-box](https://github.com/AkshatPrashar/leetcode/tree/master/1861-rotating-the-box) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AkshatPrashar/leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AkshatPrashar/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AkshatPrashar/leetcode/tree/master/0079-word-search) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatPrashar/leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Algorithm X
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/AkshatPrashar/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AkshatPrashar/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/AkshatPrashar/leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AkshatPrashar/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/AkshatPrashar/leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
@@ -520,4 +524,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AkshatPrashar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshatPrashar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshatPrashar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AkshatPrashar/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/AkshatPrashar/leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
