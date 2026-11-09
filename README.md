@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/AkshatPrashar/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1002-find-common-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AkshatPrashar/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AkshatPrashar/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/AkshatPrashar/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/AkshatPrashar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Manacher
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/AkshatPrashar/leetcode/tree/master/0832-flipping-an-image) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1486-xor-operation-in-an-array](https://github.com/AkshatPrashar/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AkshatPrashar/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AkshatPrashar/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AkshatPrashar/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshatPrashar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshatPrashar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3903-smallest-stable-index-i](https://github.com/AkshatPrashar/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AkshatPrashar/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
