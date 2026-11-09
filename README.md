@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AkshatPrashar/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/AkshatPrashar/leetcode/tree/master/1861-rotating-the-box) |
+| [2000-reverse-prefix-of-word](https://github.com/AkshatPrashar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/AkshatPrashar/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/AkshatPrashar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkshatPrashar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/AkshatPrashar/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/3110-score-of-a-string) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AkshatPrashar/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/AkshatPrashar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Dynamic Programming
 |  |
