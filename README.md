@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/AkshatPrashar/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AkshatPrashar/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/AkshatPrashar/leetcode/tree/master/2942-find-words-containing-character) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AkshatPrashar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AkshatPrashar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatPrashar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/AkshatPrashar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AkshatPrashar/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AkshatPrashar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/AkshatPrashar/leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AkshatPrashar/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/AkshatPrashar/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2706-buy-two-chocolates](https://github.com/AkshatPrashar/leetcode/tree/master/2706-buy-two-chocolates) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AkshatPrashar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AkshatPrashar/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
 |  |
