@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AkshatPrashar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AkshatPrashar/leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AkshatPrashar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AkshatPrashar/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/AkshatPrashar/leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AkshatPrashar/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AkshatPrashar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshatPrashar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AkshatPrashar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/AkshatPrashar/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AkshatPrashar/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/AkshatPrashar/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshatPrashar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AkshatPrashar/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AkshatPrashar/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
