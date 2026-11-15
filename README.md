@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/AkshatPrashar/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AkshatPrashar/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/AkshatPrashar/leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AkshatPrashar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/AkshatPrashar/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AkshatPrashar/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/AkshatPrashar/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AkshatPrashar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AkshatPrashar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AkshatPrashar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AkshatPrashar/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AkshatPrashar/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/AkshatPrashar/leetcode/tree/master/3794-reverse-string-prefix) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AkshatPrashar/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/AkshatPrashar/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AkshatPrashar/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/AkshatPrashar/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2942-find-words-containing-character](https://github.com/AkshatPrashar/leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AkshatPrashar/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
