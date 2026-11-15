@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/AkshatPrashar/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/AkshatPrashar/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshatPrashar/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1002-find-common-characters](https://github.com/AkshatPrashar/leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/AkshatPrashar/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/AkshatPrashar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AkshatPrashar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/AkshatPrashar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0845-longest-mountain-in-array](https://github.com/AkshatPrashar/leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshatPrashar/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/1525-number-of-good-ways-to-split-a-string) |
 ## Manacher
 |  |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AkshatPrashar/leetcode/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AkshatPrashar/leetcode/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshatPrashar/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AkshatPrashar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshatPrashar/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -566,4 +570,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/AkshatPrashar/leetcode/tree/master/1267-count-servers-that-communicate) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/AkshatPrashar/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
